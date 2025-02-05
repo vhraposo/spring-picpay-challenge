@@ -2,8 +2,6 @@ package com.picpay.domain.user;
 
 import java.math.BigDecimal;
 
-import org.hibernate.usertype.UserType;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
